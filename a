@@ -1,0 +1,31 @@
+[1mdiff --git a/Calc.py b/Calc.py[m
+[1mindex 9a860f9..c4ecc5e 100644[m
+[1m--- a/Calc.py[m
+[1m+++ b/Calc.py[m
+[36m@@ -4,25 +4,7 @@[m [mclass Calculadora(object):[m
+         self.a = a[m
+         self.b = b[m
+ [m
+[31m-    def soma(self):[m
+[31m-        return self.a + self.b[m
+[31m-[m
+[31m-    def subtrai(self):[m
+[31m-        return self.a - self.b[m
+[31m-[m
+[31m-    def multiplica(self):[m
+[31m-        return self.a * self.b[m
+[31m-[m
+[31m-    #def divide(self):[m
+[31m-    #    return self.a / self.b[m
+[31m-[m
+[31m-#c = Calculadora(0,0)[m
+[31m-#c.a = int(raw_input('valor de a: '))[m
+[31m-#c.b = int(raw_input('valor de b: '))[m
+[31m-#print 'Soma:',          c.soma()[m
+[31m-#print 'Subtracao:',     c.subtrai()[m
+[31m-#print 'Multiplicacao:', c.multiplica()[m
+[31m-##print 'Divisao:',       c.divide()[m
+[32m+[m[32m    #lalala[m
+ [m
+ [m
+ [m

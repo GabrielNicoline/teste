@@ -4,25 +4,7 @@ class Calculadora(object):
         self.a = a
         self.b = b
 
-    def soma(self):
-        return self.a + self.b
-
-    def subtrai(self):
-        return self.a - self.b
-
-    def multiplica(self):
-        return self.a * self.b
-
-    #def divide(self):
-    #    return self.a / self.b
-
-#c = Calculadora(0,0)
-#c.a = int(raw_input('valor de a: '))
-#c.b = int(raw_input('valor de b: '))
-#print 'Soma:',          c.soma()
-#print 'Subtracao:',     c.subtrai()
-#print 'Multiplicacao:', c.multiplica()
-##print 'Divisao:',       c.divide()
+    #lalala
 
 
 
